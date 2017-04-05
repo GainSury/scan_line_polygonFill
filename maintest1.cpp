@@ -366,10 +366,3 @@ void mouse_button_callback(GLFWwindow* window, int button, int action, int mods)
 		if (vertexCount >= 3) LastVertex = true;
 	}
 }
-
-//
-//
-//void scroll_callback(GLFWwindow* window, double xoffset, double yoffset)
-//{
-//	camera.ProcessMouseScroll(yoffset);
-//}
