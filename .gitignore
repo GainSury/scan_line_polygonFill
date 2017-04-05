@@ -1,0 +1,13 @@
+*.vcxproj*
+*.obj
+*.CppClean.log
+*.log
+*.idb
+*.pdb
+*.tlog
+*.lastbuildstate
+*test.cpp
+*test.vs
+*test.frag
+*test.h
+*test[0-9].vs
